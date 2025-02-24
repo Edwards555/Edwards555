@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi my friend👋  
 
 <!--
 **Edwards555/Edwards555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
@@ -14,7 +14,7 @@ Here are some ideas to get you started: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  
 -->
-# 我来自GZUCM，专业为BME
-# 研究方向为MSDA for CTG classification
+## 我来自GZUCM，专业为BME
+## 研究方向为MSDA for CTG classification
 
-## PS:我不太清楚如何介绍自己（ε=ε=ε=┏(゜ロ゜;)┛
+# PS:我不太清楚如何介绍自己（ε=ε=ε=┏(゜ロ゜;)┛
