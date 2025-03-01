@@ -15,6 +15,6 @@ Here are some ideas to get you started: 
 - ⚡ Fun fact: ...  
 -->
 ## 我来自GZUCM，专业为BME
-## 喜欢MISAKA  
+## ❤❤ MISAKA  
 
-# PS:我不太清楚如何介绍自己（ε=ε=ε=┏(゜ロ゜;)┛
+# PS:我不太清楚如何介绍自己（┏(゜ロ゜;)┛
